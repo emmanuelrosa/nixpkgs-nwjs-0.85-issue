@@ -32,10 +32,27 @@
         "type": "github"
       }
     },
+    "nixpkgs-nwjs-0_87": {
+      "locked": {
+        "lastModified": 1714608788,
+        "narHash": "sha256-+XUpiSvlqHgoRQMXSb67kYwPDyJulUgejHRnds0RNH0=",
+        "owner": "r-ryantm",
+        "repo": "nixpkgs",
+        "rev": "6d1b356cdd31df091ef1302643e35bb937156f24",
+        "type": "github"
+      },
+      "original": {
+        "owner": "r-ryantm",
+        "ref": "6d1b356cdd31df091ef1302643e35bb937156f24",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
     "root": {
       "inputs": {
         "nixpkgs-nwjs-0_84": "nixpkgs-nwjs-0_84",
-        "nixpkgs-nwjs-0_85": "nixpkgs-nwjs-0_85"
+        "nixpkgs-nwjs-0_85": "nixpkgs-nwjs-0_85",
+        "nixpkgs-nwjs-0_87": "nixpkgs-nwjs-0_87"
       }
     }
   },
