@@ -1,0 +1,44 @@
+{
+  "nodes": {
+    "nixpkgs-nwjs-0_84": {
+      "locked": {
+        "lastModified": 1712314784,
+        "narHash": "sha256-OqjiuH4HgZqMcnIFwV8xQpBfPDO2eNpzQKacV76zorc=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "841e26462b694d4e1933901139d23f0267b7010b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "841e26462b694d4e1933901139d23f0267b7010b",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nixpkgs-nwjs-0_85": {
+      "locked": {
+        "lastModified": 1714507029,
+        "narHash": "sha256-wjsduincTz7ll0BInvjGCQnrsXC/i4Y4wEr/QT7Fel0=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "d50a896ae5042d9bc9865bc2b00d1df3bd821a63",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "d50a896ae5042d9bc9865bc2b00d1df3bd821a63",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs-nwjs-0_84": "nixpkgs-nwjs-0_84",
+        "nixpkgs-nwjs-0_85": "nixpkgs-nwjs-0_85"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nwjs-hello",
+  "description": "Just a test for nwjs",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  }
+}
